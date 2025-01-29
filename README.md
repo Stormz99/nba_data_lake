@@ -28,6 +28,9 @@ IAM Role/Permissions: Ensure the user or role running the script has the followi
 - Glue: `glue:CreateDatabase`, `glue:CreateTable`, `glue:DeleteDatabase`, `glue:DeleteTable`
 - Athena: `athena:StartQueryExecution`, `athena:GetQueryResults`
 
+## **Technical Architecture**
+![technical_architecture](./images/technical-arch.jpg)
+
 ## **Prerequisites**
 - Free account with subscription and API Key at [SportsData.io](https://sportsdata.io/)
 - Personal AWS account with a basic understanding of AWS and Python.
