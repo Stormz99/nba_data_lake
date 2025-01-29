@@ -92,7 +92,7 @@ IAM Role/Permissions: Ensure the user or role running the script has the followi
     - Click Run.
     - You should see an output if you scroll down under "Query Results".
 
-### **What We Learned**
+### **What I Learned**
 1. Securing AWS services with least privilege IAM policies.
 2. Automating the creation of services with a script.
 3. Integrating external APIs into cloud-based workflows.
